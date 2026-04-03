@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE name = "Mar" OR firstname = "Mar";

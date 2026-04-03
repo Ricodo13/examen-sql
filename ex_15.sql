@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE city = "Marseille" OR city = "Lille" AND WHERE 

@@ -1,0 +1,1 @@
+SELECT city FROM users WHERE city = "Paris";
